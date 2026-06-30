@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yonkerspestcontrolco.com/sitemap.xml
